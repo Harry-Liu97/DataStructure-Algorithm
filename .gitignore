@@ -1,6 +1,5 @@
-# Ignore Python bytecode files
+# Ignore Python bytecode directories
 __pycache__/
-*.py[cod]
 
 # Ignore macOS files
 .DS_Store
