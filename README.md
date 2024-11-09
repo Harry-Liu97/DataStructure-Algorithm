@@ -1,8 +1,8 @@
-# LeetCode
+# LeetCode & NeetCode
 
 ### LeetCode Solutions
 
-Welcome to my practice space for LeetCode! Here, you'll find my solutions to various problems, all written in **Python 3**.
+Welcome to my practice space for LeetCode! Here, you'll find my solutions to various problems, all written in **Python3** and inspired by NeetCode for efficient approaches.
 
 ### Overview
 
